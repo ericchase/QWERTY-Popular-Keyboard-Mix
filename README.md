@@ -62,3 +62,5 @@ As of the latest version:
 The pack only affects the main keyboard layout, and not the numeric/punctuation layouts.  
 Select the "PKM, Numbers Keys" for the 'Common top generic row' User Interface option.  
 Select the "PKM, Simple" for the 'Common bottom generic row' User Interface option.  
+
+![Preview](preview.jpg)

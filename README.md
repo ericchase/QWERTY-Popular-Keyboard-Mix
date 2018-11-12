@@ -63,4 +63,5 @@ The pack only affects the main keyboard layout, and not the numeric/punctuation 
 Select the "PKM, Numbers Keys" for the 'Common top generic row' User Interface option.  
 Select the "PKM, Simple" for the 'Common bottom generic row' User Interface option.  
 
+Layout Preview (Yochees Dark - Option 2)  
 ![Preview](preview.jpg)

@@ -45,8 +45,9 @@ To start a new pack, follow this checklist:
 
     When it is merged, it can take a couple of days, until it is also distributed via Play Store and F-Droid.
 
-
-
+<br/>
+<br/>
+<br/>
 
 PROJECT SPECIFIC TEXT
 ---------------------

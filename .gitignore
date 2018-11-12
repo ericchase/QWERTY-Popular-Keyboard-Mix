@@ -1,18 +1,13 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+*.iml
+.gradle
+/local.properties
+.idea
+/key.store
+.DS_Store
+/build
+/captures
+dictionary/words_merged.xml
+dictionary/words_from_aosp.xml
+dictionary/words_from_texts.xml
 
-# Other files and folders
-.settings/
-
-# Executables
-*.swf
-*.air
-*.ipa
 *.apk
-
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.

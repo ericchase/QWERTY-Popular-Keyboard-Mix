@@ -35,8 +35,8 @@
         <Key android:codes="103" android:keyLabel="g" android:popupCharacters=""/>
         <Key android:codes="104" android:keyLabel="h" android:popupCharacters=":"/>
         <Key android:codes="106" android:keyLabel="j" android:popupCharacters=";"/>
-        <Key android:codes="107" android:keyLabel="k" android:popupCharacters="'"/>
-        <Key android:codes="108" android:keyLabel="l" android:popupCharacters="\u0022" android:keyEdgeFlags="right"/> <!-- \u0022 is " -->
+        <Key android:codes="107" android:keyLabel="k" android:popupCharacters="\u0022"/> <!-- \u0022 is " -->
+        <Key android:codes="108" android:keyLabel="l" android:popupCharacters="'" android:keyEdgeFlags="right"/>
     </Row>
 
     <Row>

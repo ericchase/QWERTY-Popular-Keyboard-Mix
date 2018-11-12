@@ -52,13 +52,13 @@ To start a new pack, follow this checklist:
 PROJECT SPECIFIC TEXT
 ---------------------
 
-Title:
+Title:  
 QWERTY Popular Keyboard Mix
 
-Description:
+Description:  
 This is an English language pack that offers a comfortable keyboard layout for English typers.
 
-As of the latest version:
-The pack only affects the main keyboard layout, and not the numeric/punctuation layouts.
-Select the "PKM, Numbers Keys" for the 'Common top generic row' User Interface option.
-Select the "PKM, Simple" for the 'Common bottom generic row' User Interface option.
+As of the latest version:  
+The pack only affects the main keyboard layout, and not the numeric/punctuation layouts.  
+Select the "PKM, Numbers Keys" for the 'Common top generic row' User Interface option.  
+Select the "PKM, Simple" for the 'Common bottom generic row' User Interface option.  

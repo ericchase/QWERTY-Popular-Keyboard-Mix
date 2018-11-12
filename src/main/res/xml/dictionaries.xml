@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dictionaries>
+    <!-- Dictionary attributes:
+     "autoTextResourceId" : a reference to a common typing mistakes XML.
+     "dictionaryResourceId" : a reference to the raw resource of the words dictionary
+     "id" : UUID for this dictionary. Obtain from here: http://www.famkruithof.net/uuid/uuidgen
+     "locale" : the ID of the dictionary's (ISO) locale, e.g., "en", "iw", "ar", "ru", etc. The keyboard should declare the same locale.
+     "nameResId" : the name of the dictionary. Should be short. Reference to a string in values.xml
+     -->
+    <Dictionary autoTextResourceId="@xml/pkm_en_autotext"
+                description=""
+                dictionaryResourceId="@array/words_dict_array"
+                id="cd865940-b72f-11e8-b568-0800200c9a66"
+                locale="en"
+                nameResId="@string/pkm_eng_dictionary"
+                type="binary_resource"/>
+</Dictionaries>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AnySoftKeyboard - Popular Keyboard Mix Language Pack</string>
+    <string name="pkm_eng_keyboard">QWERTY Popular Keyboard Mix</string>
+    <string name="pkm_eng_dictionary">English</string>
+    <!-- top row extension -->
+    <string name="extension_kbd_top_small_numbers_pkm">PKM, Numbers keys</string>
+    <!-- bottom row extension -->
+    <string name="extension_kbd_bottom_simple_pkm">PKM, Simple</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Keyboards>
+    <!-- Dictionary attributes:
+     "nameResId" : the name of the keyboard. Should be short. Reference to a string in values.xml
+     "iconResId" : a reference to a drawable which can be used to show a flag in the notification bar.
+     "layoutResId" : a reference to a keyboard layout XML. See res/xml/qwerty.xml
+     "id" : UUID for this keyboard. Obtain from here: http://www.famkruithof.net/uuid/uuidgen
+     "defaultDictionaryLocale" : the ID of the keyboard's (ISO) locale, e.g., "en", "iw", "ar", "ru", etc. The dictionary should declare the same locale.
+     -->
+    <Keyboard nameResId="@string/pkm_eng_keyboard"
+              iconResId="@drawable/ic_stat_en"
+              layoutResId="@xml/qwerty"
+              id="5b195460-b730-11e8-b568-0800200c9a66"
+              defaultDictionaryLocale="en"
+              description="QWERTY Popular Keyboard Mix"
+              index="1"/>
+</Keyboards>

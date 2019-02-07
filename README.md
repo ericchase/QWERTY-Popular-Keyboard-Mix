@@ -56,7 +56,7 @@ Title:
 QWERTY Popular Keyboard Mix
 
 Description:  
-This is an English language pack that offers a comfortable keyboard layout for English typers.
+This is an English language pack that offers a comfortable keyboard layout for English users.
 
 As of the latest version:  
 The pack only affects the main keyboard layout, and not the numeric/punctuation layouts.  
